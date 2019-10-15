@@ -1,5 +1,5 @@
 name: bookish
-description: an android application which lets to user to maintain his&#x2F;her book properly
+description: an android application which lets the   user to maintain his&#x2F;her book properly
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -40,6 +40,9 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
+  assets:
+    - book.png
+    - bookShelf.jpg
   # To add assets to your application, add an assets section, like this:
   # assets:
   #  - images/a_dot_burr.jpeg
