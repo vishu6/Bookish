@@ -43,6 +43,9 @@ flutter:
   assets:
     - book.png
     - bookShelf.jpg
+    - total.png
+    - lent.png
+    - borrowed.png
   # To add assets to your application, add an assets section, like this:
   # assets:
   #  - images/a_dot_burr.jpeg
